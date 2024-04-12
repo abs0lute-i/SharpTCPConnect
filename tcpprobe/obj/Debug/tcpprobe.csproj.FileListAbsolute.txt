@@ -1,0 +1,7 @@
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\bin\Debug\tcpprobe.exe.config
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\bin\Debug\tcpprobe.exe
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\bin\Debug\tcpprobe.pdb
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\obj\Debug\tcpprobe.csproj.AssemblyReference.cache
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\obj\Debug\tcpprobe.csproj.CoreCompileInputs.cache
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\obj\Debug\tcpprobe.exe
+C:\Users\titan\source\repos\tcpprobe\tcpprobe\obj\Debug\tcpprobe.pdb
